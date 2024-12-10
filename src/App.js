@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>Hello World!</h1>
-      <p>Author is jinendra.</p> 
+      <p>Author: jinendra.</p> 
+      <p>Linearloop Private Limited</p> 
     </div>
   );
 }
